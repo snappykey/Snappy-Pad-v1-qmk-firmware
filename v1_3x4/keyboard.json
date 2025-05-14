@@ -41,8 +41,8 @@
     "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x1208",
-        "vid": "0x2121"
+        "pid": "temp",
+        "vid": "temp"
     },
     "layouts": {
         "LAYOUT": {
